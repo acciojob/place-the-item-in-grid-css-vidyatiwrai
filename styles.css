@@ -4,8 +4,8 @@
 	display:grid;
 	color:white;
 	gap:20px;
-	grid-template-columns:repeat(100px  100px); 
-		grid-template-rows:repeat(100px  100px); 
+	grid-template-columns:repeat(100px 100px); 
+		grid-template-rows:repeat(100px 100px); 
 	
 }
 .item-1{
